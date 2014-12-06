@@ -1,0 +1,1 @@
+TARS is comand & control agent for monitoring and directing networks of smart things and objects (ex: sensors)
